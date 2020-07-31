@@ -1,5 +1,5 @@
 ### Hello Guy's 👋
-I am Btech. in Information Technology in Sgsits Indore.
+I am Btech. in Information Technology in Sgsits Indore.\n
 I’m currently learning front end Web Developement using js frameworks and I developed my own responsive website for my resume using HTML, CSS , Javascript .
 I am looking forward to more doing projects and I am happy to collaborateso feel free to contact me.
 I am also doing competitive programming using Python3 and Java.
