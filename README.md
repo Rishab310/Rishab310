@@ -1,8 +1,8 @@
 ### Hello Guy's 👋
 - 🔭 I am a student of Btech. in Information Technology in Sgsits Indore.
-- 🌱I’m currently learning front end Web Developement using js frameworks and HTML, CSS , Javascript .
-- 👯I am looking forward to doing more projects and I am happy to collaborate so feel free to contact me.
-- 😄I am also doing competitive programming using Python3 and Java.
+- 🌱I’m currently working with Front End Web Developement using Node and React Js .
+- 👯I am looking forward to doing more projects on web and software development with java and I am happy to collaborate.
+- 😄I am also doing competitive programming using Java Python3 .
 - ⚡My other skills include Mysql , Netbeans etc. .
 <!--
 **Rishab310/Rishab310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
