@@ -1,6 +1,6 @@
 ### Hello Guy's 👋
 - 🔭 I am a student of Btech. in Information Technology at Sgsits Indore.
-- 🌱I’m currently working with Front End Web Developement using Node and React Js .
+- 🌱I’m currently working with Front End Web Developement using React Js, Html ,CSS, Javascript, JQuery.
 - 👯I am looking forward to doing more projects on web and software development with java and I am happy to collaborate.
 - 😄I am also doing competitive programming using Java Python3 .
 - ⚡My other skills include Mysql , Netbeans etc. .
