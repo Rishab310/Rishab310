@@ -1,7 +1,7 @@
 ### Hello Guy's 👋
 - 🔭 I am a student of Btech. in Information Technology at Sgsits Indore.
 - 🌱 I’m a full stack Developer and my skills include Html ,CSS, Javascript, MongoDb, Express, React, Node.
-- 👯 I am looking forward to doing more projects on web and software development with java and I am happy to collaborate.
+- 👯 I am looking forward to doing more projects on web and software development and I am happy to collaborate.
 - 😄 I am also doing competitive programming using Java Python3, C Language .
 - 💬 Ask me about anything.
 - 📫 How to reach me: rishabgoyal432@gmail.com 
