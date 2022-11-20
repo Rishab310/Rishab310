@@ -1,4 +1,4 @@
-### Hello Guy's 👋
+### Hello 👋
 - 🔭 I am a student of Btech. in Information Technology at Sgsits Indore.
 - 🌱 I’m a full stack Developer and my skills include Html ,CSS, Javascript, MongoDb, Express, React, Node, AWS, MySql, etc.
 - 👯 I am looking forward to doing more projects on web and software development and I am happy to collaborate.
