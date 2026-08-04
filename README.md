@@ -2,7 +2,8 @@
 <h3 align="center">Software Engineer II @ Deutsche Bank · Backend & Cloud Systems</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=for-the-badge" alt="Open to Work"/>
+  <a href="https://www.linkedin.com/in/rishabgoyal432/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:rishabgoyal171@gmail.com"><img src="https://img.shields.io/badge/rishabgoyal171%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -22,6 +23,7 @@ Software Engineer with **3+ years** architecting high-availability backend syste
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -34,7 +36,7 @@ Software Engineer with **3+ years** architecting high-availability backend syste
 | **Backend** | Spring Boot, Microservices, REST APIs, System Design, Node.js, Express.js |
 | **Cloud & DevOps** | GCP, Kubernetes, OpenShift, Docker, CI/CD (Jenkins, GitHub Actions) |
 | **Frontend** | React, Angular |
-| **Databases** | Oracle ExaCC, MySQL, MongoDB |
+| **Databases** | Oracle ExaCC, MySQL, PostgreSQL, MongoDB |
 | **Testing & Tools** | Maven, JUnit, Mockito, Git, Postman, Jira, Splunk, Geneos |
 
 ---
