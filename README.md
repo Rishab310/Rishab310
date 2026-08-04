@@ -44,15 +44,10 @@ Software Engineer with **3+ years** architecting high-availability backend syste
 ### 💼 Experience Highlights
 
 **Deutsche Bank — Associate (Software Engineer II)** · *Jul 2023 – Present*
-- Built a fault-tolerant routing and messaging layer (Java 17, Spring Boot 3, Oracle, DBus MQ) processing **25M+ monthly transactions** across 18 global nodes, cutting pipeline blockages by **70%** via a custom Dead Letter Queue and status monitoring service
-- Led end-to-end architecture of **ReleasePilot**, an AI-driven release platform ranked **Top 20 globally** in DB's Innovation World Cup, cutting manual release effort by **40%+**
-- Migrated critical applications from OpenShift to GCP using Kubernetes; improved a compliance ETL pipeline's efficiency **2x** through parallelism
-- Built Java monitoring microservices for real-time health checks, applying SOLID principles and TDD
-- Reduced regulatory data processing time by **50%**; built Splunk/Geneos dashboards that cut issue detection time by **40%**
+- Architected backend systems processing **25M+ monthly transactions**; led **ReleasePilot**, ranked **Top 20 globally** in DB's Innovation World Cup
 
 **Weekday (YC W21) — Software Engineer Intern** · *Jan 2022 – Dec 2022*
-- Built a full-stack bulk referral platform (React, Express.js, MySQL) with automated resume parsing and scoring
-- Built a WhatsApp automation service (Node.js, AWS EC2) with dynamic containerized pod creation, improving campaign efficiency by **70%+**
+- Built full-stack and backend systems in React and Node.js
 
 ---
 
