@@ -1,58 +1,60 @@
-# 👋 Hi, I'm Rishab Goyal
+<h1 align="center">Hi 👋, I'm Rishab Goyal</h1>
+<h3 align="center">Software Engineer II @ Deutsche Bank | Building scalable backend systems</h3>
 
-**Senior Technology Analyst at Deutsche Bank**  
-*Building scalable, efficient, and robust software solutions.*
-
----
-
-### 🧭 About Me
-
-As a **Senior Technology Analyst at Deutsche Bank**, I specialize in building **efficient, scalable, and robust software solutions**.  
-With a strong foundation in **full-stack development**, **cloud computing**, and **DevOps**, I’m driven by the opportunity to solve complex problems through technology.
-
-Before joining Deutsche Bank in **July 2023**, I interned at **Weekday YC21**, where I contributed to impactful projects that strengthened both my technical and collaborative skills.
-
-I’m currently expanding my expertise in **AI, Data Science, and GCP’s Vertex AI**, exploring how **LLMs and Generative AI** can enhance software ecosystems.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rishabgoyal&label=Profile%20views&color=0e75b6&style=flat" alt="rishabgoyal" />
+</p>
 
 ---
 
-### 💻 Technical Skills
+### 🔭 About Me
 
-#### 🧩 Full-Stack Development
-- **MERN Stack** (MongoDB, Express.js, React, Node.js)
-- **JavaScript**, **TypeScript**, **Vite**, **Next.js**
-
-#### ⚙️ Backend Development
-- **Java 17**, **Spring Framework and Spring Boot**
-- REST APIs, Microservices, JPA, Hibernate
-
-#### 🗄️ Database Management
-- **SQL**, **MySQL**, **PostgreSQL**, **MongoDB**
-
-#### 🐍 Programming & Scripting
-- **Python**, **Shell Scripting**
-
-#### ☁️ Cloud & DevOps
-- **Google Cloud Platform (GCP)**, **Vertex AI**
-- **Kubernetes**, **Docker**, **CI/CD Pipelines**
+- 💼 Currently working as an **Associate Software Engineer** at **Deutsche Bank**, Pune
+- ⚙️ Focused on backend systems — Java, Spring Boot, and cloud infrastructure
+- ☁️ Working with **Google Cloud Platform (GCP)** and **Kubernetes**
+- 🌱 Always learning and exploring new tools in distributed systems and cloud-native development
+- 📍 Based in Pune, Maharashtra, India
+- 📫 Reach me at: **your-email@example.com**
 
 ---
 
-### 🚀 Featured Project
+### 🛠️ Tech Stack
 
-#### 🎓 [EdEasy](https://github.com/Rishab310/EdEasy)
-A full-fledged **MERN-based EdTech platform** enabling seamless course management and interactive learning.
+**Languages & Frameworks**
 
-- Authentication, course CRUD, and admin dashboards  
-- Optimized backend APIs and modern React front-end  
-- Built for scalability and maintainability  
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Cloud & DevOps**
+
+![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
-### 🌐 Let’s Connect
+### 📊 GitHub Stats
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/rishabgoyal432/)  
-- 🧑‍💻 [GitHub](https://github.com/Rishab310)  
-- ✉️ [Email](mailto:rishabgoyal432@gmail.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rishabgoyal&show_icons=true&theme=default&hide_border=true" alt="Rishab's GitHub stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabgoyal&hide_border=true" alt="Rishab's GitHub streak" width="48%" />
+</p>
 
 ---
+
+### 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/your-twitter" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
